@@ -3,6 +3,7 @@ package ro.sci.management;
  * Room attributes + setter and getters
  */
 
+
 import ro.sci.management.HotelApp.HotelApp;
 
 /**
