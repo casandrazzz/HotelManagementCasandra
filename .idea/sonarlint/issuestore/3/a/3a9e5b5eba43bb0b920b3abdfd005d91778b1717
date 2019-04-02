@@ -1,0 +1,12 @@
+
+[
+squid:S106b"9Replace this use of System.out or System.err by a logger.(ÁÌ÷»øÿÿÿÿ8ª‹’-
+psquid:S00116"QRename this field "Rating" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ¹À§8£’Š’-
+?squid:S2326"!setRoom is not used in the class.(şÑÌÍ8‹ØË -
+{squid:S4144F"XUpdate this method so that its implementation is not identical to "setStaff" on line 26.(‡²“Îúÿÿÿÿ8êÚÆ¦-
+[
+squid:S106S"9Replace this use of System.out or System.err by a logger.(Ø†€úÿÿÿÿ8ª‹’-
+hsquid:S00119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(şÑÌÍ8‹ØË -
+V
+squid:S106h"9Replace this use of System.out or System.err by a logger.(—â©¼8ª‹’-
+gsquid:HiddenFieldCheckf"9Rename "email" which hides the field declared at line 30.(¯‰ „ûÿÿÿÿ8ÊÜÅ¦-
